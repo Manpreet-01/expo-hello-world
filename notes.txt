@@ -1,0 +1,26 @@
+npx expo start
+
+
+› Metro waiting on exp://192.168.43.185:8081
+› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+
+› Using Expo Go
+› Press s │ switch to development build
+
+› Press a │ open Android
+› shift+a │ select a device or emulator
+› Press w │ open web
+
+› Press r │ reload app
+› Press j │ open debugger
+› Press m │ toggle menu
+› shift+m │ more tools
+› Press o │ open project code in your editor
+› Press c │ show project QR
+
+› Press ? │ show all commands
+
+
+
+Expo SDK version	React Native version	React Native Web version
+	50.0.0					0.73					0.19.6
